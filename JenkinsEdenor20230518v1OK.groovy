@@ -29,7 +29,7 @@ podTemplate(
       string(credentialsId: 'secret-AWS_DEFAULT_REGION', variable: 'AWS_DEFAULT_REGION'),
       string(credentialsId: 'secret-AWS_ACCESS_KEY_ID', variable: 'AWS_ACCESS_KEY_ID'),
       string(credentialsId: 'secret-AWS_SECRET_ACCESS_KEY', variable: 'AWS_SECRET_ACCESS_KEY'),
-      string(credentialsId: 'f40b2850-966f-4692-ba63-93519d8a7617', variable: 'OCP_SECRET_SA_TOKEN'),
+      string(credentialsId: '7189b88c-c3dd-48af-bdbf-9c946d4a2884', variable: 'OCP_SECRET_SA_TOKEN'),
       string(credentialsId: 'secret-OCP_REGISTRY_URI', variable: 'OCP_REGISTRY_URI'),
       string(credentialsId: 'secret-OCP_API_URI', variable: 'OCP_API_URI')
     ])

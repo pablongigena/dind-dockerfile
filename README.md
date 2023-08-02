@@ -91,13 +91,17 @@ Crear un nuevo Pipeline en Jenkins:
 Parametrizar el proyecto con los siguientes valores:
 
 
-![Parametro Nombre](/Documentacion/Imagenes/Parametro01.png "Parametro Nombre")
+![Parametro Entorno](/Documentacion/Imagenes/Parametro01.png "Parametro Entorno")
 
 
-![Parametro Tag](/Documentacion/Imagenes/Parametro02.png "Parametro Tag")
+![Parametro Nombre](/Documentacion/Imagenes/Parametro02.png "Parametro Nombre")
 
 
-![Parametro Namespace](/Documentacion/Imagenes/Parametro03.png "Parametro Namespace")
+![Parametro Tag](/Documentacion/Imagenes/Parametro03.png "Parametro Tag")
+
+![Parametro Proyecto](/Documentacion/Imagenes/Parametro04.png "Parametro Proyecto")
+
+![Parametro Ticket](/Documentacion/Imagenes/Parametro05.png "Parametro Ticket")
 
 Copiar todo el contenido del JenkinsFile al pipeline script
 
